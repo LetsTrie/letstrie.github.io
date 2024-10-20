@@ -12,7 +12,7 @@ title                    : "Meheraj Hossain"
 title_separator          : "-"
 name                     : &name "Meheraj Hossain"
 description              : &description "personal description"
-url                      : https://letstrie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://letstrie.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "letstrie/letstrie.github.io"
 
@@ -29,9 +29,6 @@ author:
   employer         : "Therap Services LLC"
   uri              : # URL
   email            : "meherajj@gmail.com" 
-
-  
- +88 01853594333 #  ï  § github.com/ ã kaggle.com/
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
